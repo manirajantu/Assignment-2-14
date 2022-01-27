@@ -42,6 +42,7 @@ At regular intervals, the team reflects on how to become more effective, then tu
 Agile Methodology does not just apply to software development but any project management. Recollect the 12 principles of Agile and share which three principles are commonly violated in your experience and what can be done differently?
 
 ```
+A))
 1) Continuous Delivery
 2)Welcome Changing Requirements
 3)Deliver Working Software Frequently
@@ -54,6 +55,16 @@ Agile Methodology does not just apply to software development but any project ma
 10)Simplicity is Essential
 11)Self-organizing Teams Generate Most Value
 12)Regularly Reflect and Adjust Your Way of Work to Boost Effectiveness
+
+B))
+Self-organizing Teams Generate Most Value
+Leaders should trust and give respect by giving them the space for decision making and do amendments. need not go up to leaders to seek permission. This may save time and builds a ownership responsibilities to the members.
+
+Simplicity is Essential
+Leaders should be humble and share the job completion with the team and not self proclaim 
+
+Maintain a Sustainable Working Pace
+Should allow team members to have a ballanced work live environment. 
 
 ```
 
